@@ -1,8 +1,8 @@
 # TournamentGame
-This class is used to handle tournaments, their participants, and the inherent setup.
-to modify some of the behaviours, a Harmony patch might be required.
+此类用于处理竞技场大赛、竞技场大赛参与者及其固有设置。
+要修改某些行为，可能需要 Harmony 补丁。
 
-**NOTE**: *This page is incomplete, so if you find anymore information on the subject, please create a pull request and add to this growing Modding Documentation!*
+**注意**: *此页尚未完成, 因此，如果您发现有关该主题的更多信息，请创建一个PR并添加到这个不断增长的 Modding 文档中!*
 
 ## Accessible Methods:
 #### `protected TournamentGame(Town town, ItemObject prize = null)`
